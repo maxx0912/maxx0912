@@ -63,7 +63,7 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxx0912&radius=16&theme=react&area=true&order=5" height="100" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxx0912&radius=16&theme=react&area=true&order=5" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
