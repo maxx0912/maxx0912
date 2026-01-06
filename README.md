@@ -77,12 +77,3 @@
 </div>
 
 ###
-where to add this code in the above readme file 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/maxx0912/maxx0912/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/maxx0912/maxx0912/output/github-snake.svg" />
-  <img alt="github snake animation"
-       src="https://raw.githubusercontent.com/maxx0912/maxx0912/output/github-snake.svg" />
-</picture>
